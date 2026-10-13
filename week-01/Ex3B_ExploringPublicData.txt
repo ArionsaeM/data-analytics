@@ -1,0 +1,43 @@
+1. Start by reviewing the data.gov home page. What is this?
+	A website with the governments open data sets for the entire U.S.
+ 
+2. Go to Most Viewed Datasets. How many datasets are listed? 
+	509,222 datasets are listed
+3. Find the Topic Category for Human Health. Review the range of data sources 
+available for this topic. Why do you think these were tagged with the Human Health 
+category? 
+	2807 - These were tagged with human health because in some way they correlate with human health reports in US.
+4. Go to the Food Price Outlook. Review the catalog page for this dataset. How can you 
+navigate to additional datasets from the USDA? 
+	You can open all the datasets then attach them all o the same workbook to keep them organized. Also on a separate sheet use visualizations to compare them.
+
+5. Go back to the data.gov home page. This time, click on Datasets by Organization.
+ 
+6. Try searching for your city, county, and state. What organizations are returned?
+ 	City of New York and State of New York
+
+7. Search for USDA, and click into the result. Within the USDA datasets, search for food 
+composition. Notice that the top three results are all datasets concerning nutrition 
+information. Try searching the USDA page for nutrition. How does that affect your 
+results? 
+	The main difference I notice is data.gov has 13 results for the search but usda.gov has 1474 results when you search nutrition. This means they dive deeper into nutrition than the data gov site. 
+a) One of the tricky things about working with data is that sometimes the terminology 
+used by a data source is not obvious. You may need to dig around and be creative 
+to find what you’re looking for. 
+
+8. Go back to the results for food composition, and click on FoodData Central. Review 
+the catalog page for this data source, then click on the button for Visit Page. Take 
+some time to explore the FoodData Central website.  
+Page 15 of 55 
+Year Up United Data Analyst Training Academy Week 1  
+Lab Workbook 
+a) Try searching for butter, or any of your favorite foods. What kind of results do you 
+get? What happens when you click on a result? 
+	The system lists the different types of butter, the most recent acquisition date, the food category, and product description. When you click on a certain type, its lists all nutritional values.
+
+b) Go back to the home page. Find Foundation Foods, and click on Downloads. What 
+kind of data can you find on this page? How big are these files? Where can you find 
+more information on the data types available? 
+	 You find all the datasets related to Foundation Foods, some of these files are huge. The data type is listed in the chart on the page.
+9. When you are finished, make sure your changes to Ex3B_ExploringPublicData.txt are 
+saved. 
