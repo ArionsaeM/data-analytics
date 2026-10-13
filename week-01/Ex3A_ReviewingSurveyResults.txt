@@ -1,0 +1,52 @@
+1. What conclusion can you reach about the responses to this question? 
+	1. Every response is very similar , each student will prep themselves with computer charged and past material reviewed.
+	2. More than majority of the class has access to a second monitor at home.
+	3. About half the class has a mouse and keyboard.
+	4. Most of the class relies on pen and paper but the other half uses computer based for notes with both being an outlier.
+	5. The questions vary but all of them are related to learning more or clarification on grading/assignments.
+
+2. Is the default summary or visualization helpful? How could it be improved?
+	1. Yes -giving key ideas in a quick glance of the given answers 
+	2. Yes the chart visual was very helpful. 
+	3.The chart visual was helpful, clear, and concise.
+	4. A different visual could have been used here to represent the "other" category.
+	5. I think for this question it could have just been simply listed.
+
+3. For questions with an “Other” option, where can you find the actual text of those 
+responses? Do you notice anything that might be tricky about analyzing these? 
+	The questions with "other" actual responses are listed in a chart when you click on " More Details". It can be tricky because if you don't know what "other" is, it leaves room for assumption/incorrect data.
+
+4. For questions calling for a written response, what challenges do you notice about 
+finding trends or patterns in the answers provided? 
+	For short answer responses you have to look for key words, ideas, or phrases instead of a yes or no theme.
+
+5. Now that you can see the responses, how might you recommend rephrasing this or 
+question or the response options in a future survey?
+	1.  I would have created a multiple choice since every response had the same key words anyways.
+	2. Yes or No was a good was to word it.
+	3. There should have been no other option just yes or no.
+	4. This should have short answer response.
+	5. This was asked and user-prompted perfectly even though it could have been displayed differently.
+
+
+Next respond to the below questions: 
+6. Is there anything that surprised you about the survey responses? NO
+
+7. Looking at the responses to questions 1 and 5, are there any ideas you might try to 
+include in your morning routine, or any questions that you are also curious about? 
+	I think I will invest in a mouse and separate keyboard.
+
+
+Page 13 of 55 
+Year Up United Data Analyst Training Academy Week 1  
+Lab Workbook 
+
+8. Pretend you are the instructor. Is there anything you can learn from this survey to help 
+in how you approach teaching this class? 
+	As the professor, I would take away that half of the class is technologically prepared but the entire class is mentally prepared.
+
+
+9. Again, pretend you are the instructor. Do you think it was helpful or not helpful to 
+make this survey anonymous? Why or why not? (If you can see both pros and cons, 
+you may include both.)
+	Yes, its always helpful to make surveys anonymous to get valuable and correct answers.
